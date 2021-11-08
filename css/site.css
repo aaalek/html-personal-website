@@ -53,6 +53,7 @@ body {
   text-align: center;
   top: 50px;
   position: relative;
+  color: #e8e6e3;
 }
 .container section .socials {
   position: relative;
@@ -75,6 +76,7 @@ body {
   font-size: 17pt;
   margin-left: 50px;
   margin-right: 50px;
+  color: #e8e6e3;
 }
 .small {
   font-size: xx-small;
